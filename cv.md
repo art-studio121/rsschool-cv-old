@@ -33,4 +33,4 @@ Front-end development interested me as one of the most modern, actively developi
 ----
 ### Languages:
 * Russian – Native
-* English - Intermediate
+* English -Pre-Intermediate
