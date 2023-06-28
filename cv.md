@@ -18,8 +18,7 @@ Front-end development interested me as one of the most modern, actively developi
 
 ----
 ### Skills and Proficiency
-* Academic drawing:  genre scenes, landscape, portrait, still life.
-* Academic painting:  genre scenes, landscape, portrait, still life.
+* Academic drawing and painting:  genre scenes, landscape, portrait, still life.
 * HTML5, CSS
 * JavaScript Basics
 * Git, GitHub
